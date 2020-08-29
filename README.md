@@ -1,1 +1,1 @@
-# diabotical-district-storage
+# diabotical-district-wiki
