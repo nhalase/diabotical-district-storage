@@ -2,10 +2,13 @@
 title: Dueling
 description: 
 published: true
-date: 2020-08-29T01:22:29.704Z
-tags: 
-editor: undefined
+date: 2020-08-31T23:00:51.766Z
+tags: guide, duel
+editor: markdown
 ---
 
-# Header
-Your content here
+# Mechanics	
+##Movement
+asdasdasd
+
+##aiming
