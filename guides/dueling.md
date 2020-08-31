@@ -2,7 +2,7 @@
 title: Dueling
 description: 
 published: true
-date: 2020-08-31T23:02:17.794Z
+date: 2020-08-31T23:28:23.054Z
 tags: guide, duel
 editor: markdown
 ---
