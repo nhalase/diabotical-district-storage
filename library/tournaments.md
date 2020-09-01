@@ -2,7 +2,7 @@
 title: Tournaments
 description: 
 published: true
-date: 2020-09-01T02:45:41.605Z
+date: 2020-09-01T02:46:42.883Z
 tags: tournament, library
 editor: markdown
 ---
@@ -11,10 +11,4 @@ editor: markdown
 
 ## EU
 Bracket
-<iframe src="https://widget.toornament.com/tournaments/3832231569306492928/?_locale=en_US"
 
-          allowfullscreen="" height="330" frameborder="0" width="300"></iframe>
-> ## NA
-{.is-info}sdfsdfs
-> sfdsdfsdf
-{.is-info}
