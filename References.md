@@ -2,7 +2,7 @@
 title: References
 description: 
 published: true
-date: 2020-09-01T01:54:53.676Z
+date: 2020-09-01T02:54:38.846Z
 tags: 
 editor: markdown
 ---
@@ -86,7 +86,6 @@ editor: markdown
 - 
 ## Map Specific Guides
 - Timing in Quake Live on Bloodrun explained by ZorakWar (it applies to most maps and these skills are highly transferable to Diabotical): https://www.youtube.com/watch?v=ERs7Hag9gok&t=1s
-
 ## VODS
 
 DBT vods
