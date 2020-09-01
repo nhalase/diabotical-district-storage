@@ -2,13 +2,12 @@
 title: References
 description: 
 published: true
-date: 2020-09-01T02:54:38.846Z
+date: 2020-09-01T02:55:36.886Z
 tags: 
 editor: markdown
 ---
 
 # References
-    
 ## Config Guides
 - QCP Keybinding QC https://www.youtube.com/watch?v=oRji_A6tnZ4
 - Frothy Keybinding QC https://www.youtube.com/watch?v=dmyHjnnufOc
