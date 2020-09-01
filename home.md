@@ -2,9 +2,9 @@
 title: Home
 description: 
 published: true
-date: 2020-08-29T01:22:03.775Z
+date: 2020-09-01T02:57:00.350Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Welcome
@@ -54,3 +54,6 @@ Further details and league management can be obtained from the [Diabotical Distr
   - September 13, 2020 - September 27, 2020
 - [EU Diabotical District Amateur Duel League](https://www.toornament.com/en_US/tournaments/3832231569306492928/information)
   - September 6, 2020 - September 20, 2020
+  
+  
+  
