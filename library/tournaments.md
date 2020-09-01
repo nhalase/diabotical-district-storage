@@ -2,7 +2,7 @@
 title: Tournaments
 description: 
 published: true
-date: 2020-09-01T02:48:56.719Z
+date: 2020-09-01T02:49:01.204Z
 tags: tournament, library
 editor: markdown
 ---
