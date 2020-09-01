@@ -2,7 +2,7 @@
 title: References
 description: 
 published: true
-date: 2020-09-01T01:12:35.238Z
+date: 2020-09-01T01:15:35.218Z
 tags: 
 editor: markdown
 ---
@@ -89,7 +89,8 @@ editor: markdown
 
 ## VODS
 Full Matches:
-- DBT vods
+
+DBT vods
 - Timcon Royale (1st closed beta)
 - https://www.youtube.com/playlist?list=PLWfw4TZbNEKFG0-F4VBF21EKeoCwmUkwO
 - Juked Duel Cup #1
@@ -97,7 +98,8 @@ Full Matches:
 - GetCracked 3v3 macguffin Tourney
 - finals  https://www.youtube.com/watch?v=ebLU0Sr1D1U&feature=youtu.be
 - full https://www.youtube.com/watch?v=oZLiGOHvLdo
-- Quake Live Vods 
+
+Quake Live Vods 
 - Legacy pro vods https://www.youtube.com/watch?v=oJfz8D1jlg8
 - Zoot's vods https://www.youtube.com/c/ZLiveGaming/playlists
 - nvc 125FPS vods https://www.youtube.com/watch?v=L3aq7WKwrjU&list=PL-rb458KG95_DbZmW2RxLCc0shUHag6oH
