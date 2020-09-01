@@ -2,7 +2,7 @@
 title: References
 description: 
 published: true
-date: 2020-09-01T01:12:24.763Z
+date: 2020-09-01T01:12:35.238Z
 tags: 
 editor: markdown
 ---
@@ -103,7 +103,7 @@ Full Matches:
 - nvc 125FPS vods https://www.youtube.com/watch?v=L3aq7WKwrjU&list=PL-rb458KG95_DbZmW2RxLCc0shUHag6oH
 - nvc/disrepute/vor leveluptv https://www.youtube.com/user/leveluptv
 
-## Vods With Commentary:
+Vods With Commentary:
 - DDK QL playlist https://www.youtube.com/watch?v=Zw3aPD9NcMk&list=PLUa9vQ74vG6mH0ZIZN72fFi8lcizWwnUW
 - Duy Mazino Diabotical Duel Commentary https://youtu.be/2knHreX9AMM
 - Rey_GG Diabotical Duel Commentary https://www.twitch.tv/videos/716723178?t=01h30m25s
